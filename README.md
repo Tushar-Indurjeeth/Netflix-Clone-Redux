@@ -24,6 +24,7 @@ A Netflix clone built using [React](https://reactjs.org/), [Redux](https://redux
 - [Stripe](https://stripe.com/)
 - [Firebase](https://firebase.google.com/)
 - [Run Subscription Payments with Stripe - Firebase extension](https://firebase.google.com/products/extensions/firestore-stripe-subscriptions)
+- [React Router](https://reactrouter.com/)
 - [Axios](https://github.com/axios/axios)
 
 ## Platform
