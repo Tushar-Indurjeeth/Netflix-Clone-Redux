@@ -1,9 +1,6 @@
 # Netflix Redux Clone
 A Netflix clone built using [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [Stripe Payments](https://stripe.com/).
 
-## Live demo
-[https://netflix-clone-redux-c96b9.web.app/](https://netflix-clone-redux-c96b9.web.app/)
-
 ## How it works
 - The movie data is retrieved using the TMDB API.
 - You can sign up and create an account, authentication is done through [Firebase](https://firebase.google.com/)
